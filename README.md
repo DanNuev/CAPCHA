@@ -1,1 +1,1 @@
-# CAPCHA
+# CAPCHA: Here we are working on a security method for logging into web pages, the security method is a capcha that prevents SQL injections, in addition to helping us differentiate between a machine and a human, with this we seek the security of our users and the integrity of their data🔐💉🖥️🙍‍♂️🙍‍♀️
